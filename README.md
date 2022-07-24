@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hᴇʟʟᴏ Fʀɪᴇɴᴅs 🥰
 
-<!--
-**tmanumsl/tmanumsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><a href="https://github.com/tmanumsl"><img src="https://readme-typing-svg.herokuapp.com?font=calibri&color=purple&size=30&center=true&lines=I'm+❤️Thenuja"></a></h1>
 
-Here are some ideas to get you started:
+| <a href="https://t.me/tgofcl"><img src="https://te.legra.ph/file/3648715a2e9111f2ec91c.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|       **[Thenuja Goonawardena](https://t.me/tgofcl)**                                                                                |
+| <a href="https://t.me/ItzMeDevinda"><img src="https://te.legra.ph/file/3648715a2e9111f2ec91c.jpg" width="32px" height="32px"></a>                                                                                                                                                                
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
 -->
+
+-  🙋Live in : sʀɪ ʟᴀɴᴋᴀ[🇱🇰] <br>
+-  🙋‍♂️Name : Thenuja Goonawardena <br>
+-  🙅‍♂️ I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-dark/lightred)<br>(https://github.com/tmanumsl)
+-  📫 How to reach me : [![cᴏɴᴛᴀᴄᴛ](https://img.shields.io/badge/Contact%20me-On%20Telegram-darkBlue)](https://t.me/tgofcl)
+-  ⚡️ Fun-Fact : I'ᴍ ɴᴏᴏʙ
+
+
+<div align="center"><a href="https://github.com/tmanumsl">
+
+
+
+
+
+
+### 🥰[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://github.com/tmanumsl Itz Me Thenuja)🥰
