@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 -  🙋Live in : sʀɪ ʟᴀɴᴋᴀ[🇱🇰] <br>
 -  🙋‍♂️Name : Thenuja Goonawardena <br>
 -  🙅‍♂️ I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-dark/lightred)<br>(https://github.com/tmanumsl)
--  📫 How to reach me : [![cᴏɴᴛᴀᴄᴛ](https://img.shields.io/badge/Contact%20me-On%20Telegram-darkBlue)](https://t.me/tmanumsl)
+-  📫 How to reach me : [![cᴏɴᴛᴀᴄᴛ](https://img.shields.io/badge/Contact%20me-On%20Telegram-darkBlue)](https://t.me/tmanum_sl)
 -  ⚡️ Fun-Fact : I'ᴍ ɴᴏᴏʙ
 
 
