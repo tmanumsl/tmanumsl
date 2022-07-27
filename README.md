@@ -5,7 +5,7 @@
 | <a href="https://t.me/tgofcl"><img src="https://te.legra.ph/file/3648715a2e9111f2ec91c.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Thenuja Goonawardena](https://t.me/tgofcl)**                                                                                |
-| <a href="https://t.me/ItzMeDevinda"><img src="https://te.legra.ph/file/6300253bdc4f5088d86b6.jpg" width="32px" height="32px"></a>                                                                                                                                                                
+| <a href="https://t.me/tmanum_sl"><img src="https://te.legra.ph/file/6300253bdc4f5088d86b6.jpg" width="32px" height="32px"></a>                                                                                                                                                                
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- Your badges
